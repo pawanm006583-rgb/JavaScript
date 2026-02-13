@@ -1,0 +1,17 @@
+body.light{
+    background-color: black;
+    color: white;
+    
+}
+
+body.dark{
+    background-color:white;
+    color: black;
+    
+}
+
+#themebtn {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
